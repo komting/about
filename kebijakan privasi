@@ -1,0 +1,24 @@
+KEBIJAKAN PRIVASI APLIKASI ANDROID
+Kebijakan Privasi Aplikasi Android dari developer Vinno Dewasila dibuat untuk membantu anda untuk mengerti mengenai data yang kami kumpulkan sebagai suatu hasil saat anda menggunakan aplikasi dan apa yang kami lakukan dengan data tersebut. Perlu anda ketahui bahwa aplikasi dari kami menggunakan teknologi Hybrid, yaitu penggabungan aplikasi native dengan HTML, CSS dan Javascript.
+
+AKSES APAKAH YANG APLIKASI PERLUKAN PADA PERANGKAT ANDA ?
+Aplikasi memerlukan akses baca/tulis pada perangkat menggunakan Session/Local Storage Web App. Jadi aplikasi tidak akan menulis file di memori perangkat anda. Hal ini diperlukan untuk menyimpan data aplikasi, misalnya data skor permainan, data pengguna dan lain-lain. Pengguna tidak memiliki opsi untuk memberikan izin apakah hal ini diperbolehkan atau tidak, karena ini adalah bawaan dari Hybrid Apps.
+
+INFORMASI APAKAH YANG DAPAT SAJA KAMI KUMPULKAN?
+Setiap Aplikasi mungkin dapat atau tidak dapat mengumpulkan informasi identifikasi umum dari hal-hal berikut : 
+Nama pengguna Aplikasi (saat menjalankan aplikasi, butuh input dari pengguna)
+Aplikasi kami tidak menggunakan analitik seperti Google Firebase atau Amplitude, sehingga tidak akan mengumpulkan ‘informasi identifikasi pribadi’/ PII (personally identifiable information) dalam bentuk apapun. PII adalah informasi mengenai perseorangan, orang yang memiliki legalitas hukum, sebuah badan institusi atau asosiasi, dimana, atau dapat juga, teridentifikasi, secara tidak langsung, oleh acuan dari informasi lainnya, termasuk nomor identifikasi pribadi. Dan, kami tidak mengumpulkan informasi itu.
+
+UNTUK TUJUAN APAKAH KAMI MENGGUNAKAN INFORMASI ANDA?
+Informasi apapun yang kami kumpulkan dari anda digunakan dalam menjalankan aplikasi terutama permainan/game.
+BAGAIMANA KAMI MELINDUNGI INFORMASI YANG KAMI KUMPULKAN?
+Informasi yang diambil disimpan dalam Localstorage/Sessionstorage sehingga cukup aman dan tidak dapat didistribusikan. Namun, Kami mengambil langkah pengamanan yang sesuai untuk melindungi terhadap akses yang tidak sah atau perubahan yang tidak sah, pengungkapan atau penghancuran data. Hal ini termasuk tinjauan internal dari pengumpulan data kami, penyimpanan dan cara pengolahan dan langkah keamanan, dan langkah keamanan secara fisik untuk menjaga terhadap akses yang tidak sah kepada sistem dimana data disimpan. APAKAH KAMI MENYINGKAP INFORMASI KEPADA PIHAK LUAR? Kami tidak menjual, menukar, atau mengirim data yang kami kumpulkan kepada pihak luar. Hal ini tidak termasuk dengan pihak ketiga yang terpercaya untuk membantu kami mengoperasikan aplikasi kami, melakukan bisnis bersama kami, atau melayani anda, selama pihak tersebut setuju untuk menjaga kerahasiaan semua informasi. 
+
+PERSYARATAN ANDA
+Dengan menggunakan aplikasi kami, anda mematuhi persyaratan kebijakan privasi kami.
+ 
+PERUBAHAN KEBIJAKAN PRIVASI PADA APLIKASI KAMI
+Jika kami memutuskan untuk mengubah kebijakan privasi kami, kami akan mengumumkan perubahan tersebut pada halaman ini dan memperbarui tanggal modifikasi kebijakan privasi aplikasi dibawah ini. Kebijakan ini terakhir diperbarui pada tanggal 27 September 2018. 
+
+MENGHUBUNGI KAMI
+Jika ada pertanyaan mengenai kebijakan privasi ini, anda dapat menghubungi kami di: Email: vikkovinno@gmail.com
